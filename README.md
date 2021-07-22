@@ -17,3 +17,7 @@ category of universities suitable for the profile.
 Run the Input.py file and fill in the details to evaluate the profile. The SOP should be saved in the SOP.csv file to be evaluated correctly. Fill in the details and get a list of colleges you are most likely to get acceptance from. 
 
 P.S. The criteria on which the admissions are rolled out is ambiguous as the admission committee does not explicitly mention it. But, based on the admission trend, we were able to infer the trend of admissions for different universities. This is just a small step towards solving the ambiguous problem of college shortlisting.
+
+Our paper on URS won the best paper certificate in the ”National Conference on Artificial Intelligence and Intelligent Information Processing” (NCAIIIP’20) organised by department of Software Engineering, SRM IST. Link: https://github.com/ujjwalvkulkarni/University-Recommendation-System-for-Graduate-Studies/blob/main/NCAIIIP-KARAN%20%20UJJWAL.pdf
+
+![](https://github.com/ujjwalvkulkarni/University-Recommendation-System-for-Graduate-Studies/blob/main/Conference%20certificate.png)
